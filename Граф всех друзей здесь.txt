@@ -1,0 +1,4 @@
+Файл с кодом и png графа всех друзей группы не получается загрузить на гитхаб из-за слишком большого размера
+Можно скачать и посмотреть их по этой ссылке
+
+https://drive.google.com/drive/folders/1jTjgh3151tERD7vn8NJeZQHUjIs2czxW?usp=sharing
